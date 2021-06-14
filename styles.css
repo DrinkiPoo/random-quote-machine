@@ -1,3 +1,11 @@
-html, body {
-	background-image: url('https://images.unsplash.com/photo-1425913397330-cf8af2ff40a1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80');	
+.haha{
+  width: 100vw;
+  height: 100vh;
+}
+
+.mycustomdiv{
+  border: 1px gray solid;
+  border-radius: 8px;
+  text-align: center;
+  padding: 5px;
 }
